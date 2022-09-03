@@ -6,6 +6,8 @@
  * 
  * Interface: /usr/share/dbus-1/interfaces/com.canonical.AppMenu.Registrar.xml
  * 
+ * Don't ever use this code as a guide - it sucks and mixes C/C++ paradigms
+ * 
  * Check out implementation using d-feet
  **/ 
 
